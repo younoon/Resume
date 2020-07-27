@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+/* 共通のスタイル */
+
+body{
+    background-color: black;
+}
+
+div#wrap{
+    width: 800px;
+    height: 600px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    margin: -300px 0 0 -400px;
+
+   background-color: #bbb;
+
+    padding: 20px 20px 20px 320px;
+
+    box-sizing: border-box;
+}
+
+header h1{
+    font-size: 3em;
+    position: center;
+}
+
+article{
+    margin: 20px 0 0 0;
+    line-height: 2em;
+}
+
+nav{
+    position: absolute;
+    bottom: 100px;
+    text-align: right;
+}
+
+footer{
+    position: absolute;
+    bottom: 30px;
+    right: 50px;
+}
+

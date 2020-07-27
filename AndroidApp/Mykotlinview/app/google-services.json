@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459783332657",
+    "firebase_url": "https://kotlin-recycler.firebaseio.com",
+    "project_id": "kotlin-recycler",
+    "storage_bucket": "kotlin-recycler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459783332657:android:571c484d6541e01f744610",
+        "android_client_info": {
+          "package_name": "nhs75007.nagoya.ac.mykotlinview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459783332657-ae34a4s5e2u3pav5j0a3i886790tn4r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqy2-pbi0b2LkdboxZTnS4Od46dZjDneo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459783332657-ae34a4s5e2u3pav5j0a3i886790tn4r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
